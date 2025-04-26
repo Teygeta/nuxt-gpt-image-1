@@ -1,7 +1,7 @@
 ![screenshot](public/screenshot.png)
 
 # GPT Image 1
-OpenAI [has introduced their latest image generation model in the API](https://openai.com/index/image-generation-api/). I created a simple Nuxt 3 application that uses this new model to generate images locally.
+OpenAI [has introduced their latest image generation model in the API](https://openai.com/index/image-generation-api/). I created a GUI to locally run the model to generate the images.
 
 ## Getting Started
 
