@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --font-dm-sans: "DM Sans", sans-serif;
+    --text-base: 15px;
+    --color-primary: #0c0c0e;
+}
+
+html, body {
+    @apply font-dm-sans tracking-tight
+}
