@@ -1,4 +1,4 @@
-![screenshot](public/screenshot.png)
+![image](https://github.com/user-attachments/assets/5998b459-936f-4a74-9484-7b629d36388d)
 
 # GPT Image 1
 OpenAI [has introduced their latest image generation model in the API](https://openai.com/index/image-generation-api/). I created a GUI to locally run the model to generate the images.
